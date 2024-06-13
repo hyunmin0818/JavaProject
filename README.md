@@ -3,7 +3,8 @@
 - 각종 수수료 계산하는 프로그램 입니다.
 - 본인이 필요한 수수료를 정할 수 있고 위탁, 낙찰, 부동산 중개 수수료 계산이 기본적으로 있습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f43e30dd-2b91-49fc-9fdd-2047bd12060c/147d6da3-9cfe-4353-8ff1-7c4f2084dfac/Untitled.png)
+![image](https://github.com/hyunmin0818/JavaProject/assets/97450568/518d12a0-17ef-4004-b396-5267d1b9c52b)
+
 
 - 실행하게 되면 나오는 코드 입니다.
 - 수수료 계산기, 위탁수수료, 낙찰수수료, 부동산 중개 수수료로 4가지로 나눠져 있습니다.
