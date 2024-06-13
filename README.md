@@ -3,28 +3,33 @@
 - 각종 수수료 계산하는 프로그램 입니다.
 - 본인이 필요한 수수료를 정할 수 있고 위탁, 낙찰, 부동산 중개 수수료 계산이 기본적으로 있습니다.
 
-![image](https://github.com/hyunmin0818/JavaProject/assets/97450568/518d12a0-17ef-4004-b396-5267d1b9c52b)
+![image](https://github.com/hyunmin0818/JavaProject/assets/97450568/bda1f160-a0d6-479c-b051-e9213bf09fe1)
+
 
 
 - 실행하게 되면 나오는 코드 입니다.
 - 수수료 계산기, 위탁수수료, 낙찰수수료, 부동산 중개 수수료로 4가지로 나눠져 있습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f43e30dd-2b91-49fc-9fdd-2047bd12060c/727621ac-8f90-49fc-b407-c27b08d1ddc2/Untitled.png)
+![image](https://github.com/hyunmin0818/JavaProject/assets/97450568/6efd07af-97b1-4e13-b5f6-42f36014829f)
+
 
 - 수수료 계산기는 본인이 직접 수수료 비율을 조정할 수 있습니다.
 - 수수료율을 조정한 후 거래금액을 입력하면 계산된 수수료와 순수익이 나옵니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f43e30dd-2b91-49fc-9fdd-2047bd12060c/a8f1aa89-a33e-4fa5-9c9d-2b4341f988a3/Untitled.png)
+![image](https://github.com/hyunmin0818/JavaProject/assets/97450568/55c71f10-7a71-4fbd-b333-23e29f9db652)
+
 
 - 위탁수수료는 한국부동산에서 정한 부가가치세를 기준으로 하였습니다.
 - 바로 위탁금액을 입력하면 위탁수수료를 알려줍니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f43e30dd-2b91-49fc-9fdd-2047bd12060c/e687080c-d9ae-46ca-a575-db696a659002/Untitled.png)
+![image](https://github.com/hyunmin0818/JavaProject/assets/97450568/fde8d3d4-23a5-485c-a701-0c731969b464)
+
 
 - 낙찰수수료는 서울옥션과 케이옥션의 오프라인 최종수수료를 기준으로 하였습니다.
 - 낙찰수수료는 16.5%를 고정으로 하였습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f43e30dd-2b91-49fc-9fdd-2047bd12060c/165f2f3a-07e2-419a-90f2-9276fad9fbe1/Untitled.png)
+![image](https://github.com/hyunmin0818/JavaProject/assets/97450568/c4559af4-285d-4128-ae4e-1d132821c11f)
+
 
 - 부동산 중개 수수료는 대한법률구조공단에서 발표한 중개 수수료를 기준으로 하였습니다.
 - 주택, 오피스텔, 주택이외, 고급주택을 선택할 수 있고 매매/교환, 임대로 구성하였습니다.
